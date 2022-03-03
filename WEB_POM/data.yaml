@@ -1,0 +1,20 @@
+-
+  username_date: 123
+  password_date: 123
+  password_confirm_date: 123
+  phone_number_date: 123
+  email_date: 123
+
+-
+  username_date: 1234
+  password_date: 1234
+  password_confirm_date: 1234
+  phone_number_date: 1234
+  email_date: 1234
+
+-
+  username_date: 12345
+  password_date: 12345
+  password_confirm_date: 12345
+  phone_number_date: 12345
+  email_date: 12345

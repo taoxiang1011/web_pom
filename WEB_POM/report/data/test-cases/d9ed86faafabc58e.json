@@ -1,0 +1,93 @@
+{
+  "uid" : "d9ed86faafabc58e",
+  "name" : "test_register[caseinfo1]",
+  "fullName" : "test_case.test_register_pytest.TestRegister#test_register",
+  "historyId" : "879a09f63a6370988d84618416c6511e",
+  "time" : {
+    "start" : 1646295600558,
+    "stop" : 1646295603636,
+    "duration" : 3078
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_method_fixture_TestRegister",
+    "time" : {
+      "start" : 1646295599108,
+      "stop" : 1646295600558,
+      "duration" : 1450
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "_xunit_setup_method_fixture_TestRegister::0",
+    "time" : {
+      "start" : 1646295603638,
+      "stop" : 1646295605764,
+      "duration" : 2126
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_register_pytest"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRegister"
+  }, {
+    "name" : "host",
+    "value" : "PC-201910270056"
+  }, {
+    "name" : "thread",
+    "value" : "14564-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_register_pytest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "caseinfo",
+    "value" : "['test002', 123456, 123456, 13612345679, '123457@qq.com']"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d9ed86faafabc58e.json",
+  "parameterValues" : [ "['test002', 123456, 123456, 13612345679, '123457@qq.com']" ]
+}

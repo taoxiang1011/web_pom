@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Mar 03 16:20:00 CST 2022","Thu Mar 03 16:20:03 CST 2022","3078","test_case","test_register_pytest","TestRegister","","","test_register[caseinfo1]",""
+"passed","Thu Mar 03 16:19:53 CST 2022","Thu Mar 03 16:19:56 CST 2022","3093","test_case","test_register_pytest","TestRegister","","","test_register[caseinfo0]",""
+"passed","Thu Mar 03 16:20:07 CST 2022","Thu Mar 03 16:20:10 CST 2022","3070","test_case","test_register_pytest","TestRegister","","","test_register[caseinfo2]",""

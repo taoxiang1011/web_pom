@@ -1,0 +1,68 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_case",
+    "children" : [ {
+      "name" : "test_register_pytest",
+      "children" : [ {
+        "name" : "TestRegister",
+        "children" : [ {
+          "name" : "test_register[caseinfo0]",
+          "uid" : "fa85658eccf2c168",
+          "parentUid" : "9494917a6f6aff3f4059c8028b6195a3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1646295593864,
+            "stop" : 1646295596957,
+            "duration" : 3093
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "['test001', 123456, 123456, 13612345678, '123456@qq.com']" ]
+        }, {
+          "name" : "test_register[caseinfo1]",
+          "uid" : "d9ed86faafabc58e",
+          "parentUid" : "9494917a6f6aff3f4059c8028b6195a3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1646295600558,
+            "stop" : 1646295603636,
+            "duration" : 3078
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "['test002', 123456, 123456, 13612345679, '123457@qq.com']" ]
+        }, {
+          "name" : "test_register[caseinfo2]",
+          "uid" : "b5e87ea443542ddf",
+          "parentUid" : "9494917a6f6aff3f4059c8028b6195a3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1646295607209,
+            "stop" : 1646295610279,
+            "duration" : 3070
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "['test003', 123456, 123456, 13612345680, '123458@qq.com']" ]
+        } ],
+        "uid" : "9494917a6f6aff3f4059c8028b6195a3"
+      } ],
+      "uid" : "646056088c6f60ef8640fa2186f901de"
+    } ],
+    "uid" : "86abcc46617c603d802c3e378b13740e"
+  } ]
+}

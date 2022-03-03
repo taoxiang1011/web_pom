@@ -1,0 +1,627 @@
+2022-03-02 21:50:21,956 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-02 21:50:21,957 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-02 21:50:22,022 - base_page.py - INFO - send_keys- 正在输入test001
+2022-03-02 21:50:22,022 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-02 21:50:22,086 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-02 21:50:22,086 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-02 21:50:22,139 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-02 21:50:22,140 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-02 21:50:22,216 - base_page.py - INFO - send_keys- 正在输入13612345678
+2022-03-02 21:50:22,216 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-02 21:50:22,302 - base_page.py - INFO - send_keys- 正在输入123456@qq.com
+2022-03-02 21:50:28,659 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-02 21:50:28,659 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-02 21:50:28,729 - base_page.py - INFO - send_keys- 正在输入test002
+2022-03-02 21:50:28,729 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-02 21:50:28,794 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-02 21:50:28,795 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-02 21:50:28,848 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-02 21:50:28,848 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-02 21:50:28,921 - base_page.py - INFO - send_keys- 正在输入13612345679
+2022-03-02 21:50:28,921 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-02 21:50:29,004 - base_page.py - INFO - send_keys- 正在输入123457@qq.com
+2022-03-02 21:50:35,319 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-02 21:50:35,320 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-02 21:50:35,387 - base_page.py - INFO - send_keys- 正在输入test003
+2022-03-02 21:50:35,387 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-02 21:50:35,455 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-02 21:50:35,455 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-02 21:50:35,511 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-02 21:50:35,511 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-02 21:50:35,584 - base_page.py - INFO - send_keys- 正在输入13612345680
+2022-03-02 21:50:35,584 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-02 21:50:35,663 - base_page.py - INFO - send_keys- 正在输入123458@qq.com
+2022-03-03 13:30:55,071 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 13:30:55,072 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 13:30:55,133 - base_page.py - INFO - send_keys- 正在输入123
+2022-03-03 13:30:55,133 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 13:30:55,185 - base_page.py - INFO - send_keys- 正在输入123
+2022-03-03 13:30:55,185 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 13:30:55,236 - base_page.py - INFO - send_keys- 正在输入123
+2022-03-03 13:30:55,237 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 13:30:55,284 - base_page.py - INFO - send_keys- 正在输入123
+2022-03-03 13:30:55,284 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 13:30:55,330 - base_page.py - INFO - send_keys- 正在输入123
+2022-03-03 13:31:04,719 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 13:31:04,720 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 13:31:04,782 - base_page.py - INFO - send_keys- 正在输入1234
+2022-03-03 13:31:04,782 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 13:31:04,839 - base_page.py - INFO - send_keys- 正在输入1234
+2022-03-03 13:31:04,839 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 13:31:04,888 - base_page.py - INFO - send_keys- 正在输入1234
+2022-03-03 13:31:04,888 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 13:31:04,948 - base_page.py - INFO - send_keys- 正在输入1234
+2022-03-03 13:31:04,948 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 13:31:04,999 - base_page.py - INFO - send_keys- 正在输入1234
+2022-03-03 13:31:14,790 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 13:31:14,790 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 13:31:14,848 - base_page.py - INFO - send_keys- 正在输入12345
+2022-03-03 13:31:14,849 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 13:31:14,902 - base_page.py - INFO - send_keys- 正在输入12345
+2022-03-03 13:31:14,902 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 13:31:14,961 - base_page.py - INFO - send_keys- 正在输入12345
+2022-03-03 13:31:14,961 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 13:31:15,015 - base_page.py - INFO - send_keys- 正在输入12345
+2022-03-03 13:31:15,016 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 13:31:15,069 - base_page.py - INFO - send_keys- 正在输入12345
+2022-03-03 13:38:47,412 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 13:38:47,413 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 13:38:47,481 - base_page.py - INFO - send_keys- 正在输入test001
+2022-03-03 13:38:47,481 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 13:38:47,537 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 13:38:47,537 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 13:38:47,594 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 13:38:47,595 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 13:38:47,667 - base_page.py - INFO - send_keys- 正在输入13612345678
+2022-03-03 13:38:47,668 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 13:38:47,744 - base_page.py - INFO - send_keys- 正在输入123456@qq.com
+2022-03-03 13:38:54,119 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 13:38:54,120 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 13:38:54,193 - base_page.py - INFO - send_keys- 正在输入test002
+2022-03-03 13:38:54,194 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 13:38:54,260 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 13:38:54,260 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 13:38:54,315 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 13:38:54,316 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 13:38:54,387 - base_page.py - INFO - send_keys- 正在输入13612345679
+2022-03-03 13:38:54,387 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 13:38:54,470 - base_page.py - INFO - send_keys- 正在输入123457@qq.com
+2022-03-03 13:39:00,853 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 13:39:00,853 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 13:39:00,928 - base_page.py - INFO - send_keys- 正在输入test003
+2022-03-03 13:39:00,928 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 13:39:01,012 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 13:39:01,012 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 13:39:01,076 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 13:39:01,076 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 13:39:01,152 - base_page.py - INFO - send_keys- 正在输入13612345680
+2022-03-03 13:39:01,152 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 13:39:01,233 - base_page.py - INFO - send_keys- 正在输入123458@qq.com
+2022-03-03 13:43:15,965 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 13:43:15,965 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 13:43:16,043 - base_page.py - INFO - send_keys- 正在输入test001
+2022-03-03 13:43:16,043 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 13:43:16,114 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 13:43:16,114 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 13:43:16,168 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 13:43:16,168 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 13:43:16,245 - base_page.py - INFO - send_keys- 正在输入13612345678
+2022-03-03 13:43:16,246 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 13:43:16,334 - base_page.py - INFO - send_keys- 正在输入123456@qq.com
+2022-03-03 13:43:22,698 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 13:43:22,698 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 13:43:22,776 - base_page.py - INFO - send_keys- 正在输入test002
+2022-03-03 13:43:22,777 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 13:43:22,843 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 13:43:22,843 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 13:43:22,902 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 13:43:22,902 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 13:43:22,983 - base_page.py - INFO - send_keys- 正在输入13612345679
+2022-03-03 13:43:22,983 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 13:43:23,072 - base_page.py - INFO - send_keys- 正在输入123457@qq.com
+2022-03-03 13:43:29,407 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 13:43:29,407 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 13:43:29,485 - base_page.py - INFO - send_keys- 正在输入test003
+2022-03-03 13:43:29,485 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 13:43:29,557 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 13:43:29,557 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 13:43:29,617 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 13:43:29,618 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 13:43:29,697 - base_page.py - INFO - send_keys- 正在输入13612345680
+2022-03-03 13:43:29,697 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 13:43:29,788 - base_page.py - INFO - send_keys- 正在输入123458@qq.com
+2022-03-03 13:46:09,302 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 13:46:09,302 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 13:46:09,388 - base_page.py - INFO - send_keys- 正在输入test001
+2022-03-03 13:46:09,388 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 13:46:09,456 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 13:46:09,456 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 13:46:09,515 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 13:46:09,516 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 13:46:09,596 - base_page.py - INFO - send_keys- 正在输入13612345678
+2022-03-03 13:46:09,596 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 13:46:09,688 - base_page.py - INFO - send_keys- 正在输入123456@qq.com
+2022-03-03 13:46:16,066 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 13:46:16,066 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 13:46:16,139 - base_page.py - INFO - send_keys- 正在输入test002
+2022-03-03 13:46:16,140 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 13:46:16,201 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 13:46:16,201 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 13:46:16,265 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 13:46:16,265 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 13:46:16,349 - base_page.py - INFO - send_keys- 正在输入13612345679
+2022-03-03 13:46:16,349 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 13:46:16,436 - base_page.py - INFO - send_keys- 正在输入123457@qq.com
+2022-03-03 13:46:22,763 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 13:46:22,764 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 13:46:22,840 - base_page.py - INFO - send_keys- 正在输入test003
+2022-03-03 13:46:22,841 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 13:46:22,907 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 13:46:22,907 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 13:46:22,972 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 13:46:22,972 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 13:46:23,079 - base_page.py - INFO - send_keys- 正在输入13612345680
+2022-03-03 13:46:23,079 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 13:46:23,189 - base_page.py - INFO - send_keys- 正在输入123458@qq.com
+2022-03-03 13:50:06,251 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 13:50:06,252 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 13:50:06,324 - base_page.py - INFO - send_keys- 正在输入test001
+2022-03-03 13:50:06,324 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 13:50:06,396 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 13:50:06,397 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 13:50:06,453 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 13:50:06,453 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 13:50:06,529 - base_page.py - INFO - send_keys- 正在输入13612345678
+2022-03-03 13:50:06,529 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 13:50:06,618 - base_page.py - INFO - send_keys- 正在输入123456@qq.com
+2022-03-03 13:50:12,932 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 13:50:12,932 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 13:50:13,004 - base_page.py - INFO - send_keys- 正在输入test002
+2022-03-03 13:50:13,004 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 13:50:13,073 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 13:50:13,073 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 13:50:13,126 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 13:50:13,126 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 13:50:13,207 - base_page.py - INFO - send_keys- 正在输入13612345679
+2022-03-03 13:50:13,207 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 13:50:13,289 - base_page.py - INFO - send_keys- 正在输入123457@qq.com
+2022-03-03 13:50:19,588 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 13:50:19,589 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 13:50:19,660 - base_page.py - INFO - send_keys- 正在输入test003
+2022-03-03 13:50:19,660 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 13:50:19,726 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 13:50:19,726 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 13:50:19,785 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 13:50:19,785 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 13:50:19,863 - base_page.py - INFO - send_keys- 正在输入13612345680
+2022-03-03 13:50:19,863 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 13:50:19,943 - base_page.py - INFO - send_keys- 正在输入123458@qq.com
+2022-03-03 14:41:36,890 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 14:41:36,891 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 14:41:36,956 - base_page.py - INFO - send_keys- 正在输入test001
+2022-03-03 14:41:36,957 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 14:41:37,003 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 14:41:37,004 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 14:41:37,052 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 14:41:37,052 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 14:41:37,117 - base_page.py - INFO - send_keys- 正在输入13612345678
+2022-03-03 14:41:37,117 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 14:41:37,194 - base_page.py - INFO - send_keys- 正在输入123456@qq.com
+2022-03-03 14:41:43,990 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 14:41:43,991 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 14:41:44,049 - base_page.py - INFO - send_keys- 正在输入test002
+2022-03-03 14:41:44,049 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 14:41:44,100 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 14:41:44,100 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 14:41:44,147 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 14:41:44,147 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 14:41:44,204 - base_page.py - INFO - send_keys- 正在输入13612345679
+2022-03-03 14:41:44,204 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 14:41:44,267 - base_page.py - INFO - send_keys- 正在输入123457@qq.com
+2022-03-03 14:41:50,911 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 14:41:50,911 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 14:41:50,965 - base_page.py - INFO - send_keys- 正在输入test003
+2022-03-03 14:41:50,966 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 14:41:51,014 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 14:41:51,014 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 14:41:51,059 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 14:41:51,059 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 14:41:51,115 - base_page.py - INFO - send_keys- 正在输入13612345680
+2022-03-03 14:41:51,116 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 14:41:51,182 - base_page.py - INFO - send_keys- 正在输入123458@qq.com
+2022-03-03 14:47:59,787 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 14:47:59,787 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 14:47:59,873 - base_page.py - INFO - send_keys- 正在输入test001
+2022-03-03 14:47:59,874 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 14:47:59,949 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 14:47:59,949 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 14:48:00,018 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 14:48:00,019 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 14:48:00,124 - base_page.py - INFO - send_keys- 正在输入13612345678
+2022-03-03 14:48:00,124 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 14:48:00,226 - base_page.py - INFO - send_keys- 正在输入123456@qq.com
+2022-03-03 14:48:06,699 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 14:48:06,699 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 14:48:06,781 - base_page.py - INFO - send_keys- 正在输入test002
+2022-03-03 14:48:06,782 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 14:48:06,875 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 14:48:06,876 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 14:48:06,969 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 14:48:06,969 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 14:48:07,062 - base_page.py - INFO - send_keys- 正在输入13612345679
+2022-03-03 14:48:07,062 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 14:48:07,155 - base_page.py - INFO - send_keys- 正在输入123457@qq.com
+2022-03-03 14:48:13,649 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 14:48:13,649 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 14:48:13,721 - base_page.py - INFO - send_keys- 正在输入test003
+2022-03-03 14:48:13,721 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 14:48:13,790 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 14:48:13,790 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 14:48:13,863 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 14:48:13,863 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 14:48:13,947 - base_page.py - INFO - send_keys- 正在输入13612345680
+2022-03-03 14:48:13,947 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 14:48:14,038 - base_page.py - INFO - send_keys- 正在输入123458@qq.com
+2022-03-03 15:10:47,165 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 15:10:47,165 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 15:10:47,220 - base_page.py - INFO - send_keys- 正在输入test001
+2022-03-03 15:10:47,221 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 15:10:47,270 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:10:47,270 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 15:10:47,315 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:10:47,315 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 15:10:47,370 - base_page.py - INFO - send_keys- 正在输入13612345678
+2022-03-03 15:10:47,370 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 15:10:47,433 - base_page.py - INFO - send_keys- 正在输入123456@qq.com
+2022-03-03 15:10:53,639 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 15:10:53,639 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 15:10:53,692 - base_page.py - INFO - send_keys- 正在输入test002
+2022-03-03 15:10:53,692 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 15:10:53,743 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:10:53,743 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 15:10:53,789 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:10:53,789 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 15:10:53,847 - base_page.py - INFO - send_keys- 正在输入13612345679
+2022-03-03 15:10:53,847 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 15:10:53,914 - base_page.py - INFO - send_keys- 正在输入123457@qq.com
+2022-03-03 15:11:00,139 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 15:11:00,139 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 15:11:00,194 - base_page.py - INFO - send_keys- 正在输入test003
+2022-03-03 15:11:00,194 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 15:11:00,246 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:11:00,247 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 15:11:00,292 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:11:00,292 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 15:11:00,345 - base_page.py - INFO - send_keys- 正在输入13612345680
+2022-03-03 15:11:00,345 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 15:11:00,404 - base_page.py - INFO - send_keys- 正在输入123458@qq.com
+2022-03-03 15:11:48,834 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 15:11:48,835 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 15:11:48,933 - base_page.py - INFO - send_keys- 正在输入test001
+2022-03-03 15:11:48,933 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 15:11:49,014 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:11:49,014 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 15:11:49,076 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:11:49,077 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 15:11:49,163 - base_page.py - INFO - send_keys- 正在输入13612345678
+2022-03-03 15:11:49,164 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 15:11:49,258 - base_page.py - INFO - send_keys- 正在输入123456@qq.com
+2022-03-03 15:11:55,605 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 15:11:55,605 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 15:11:55,659 - base_page.py - INFO - send_keys- 正在输入test002
+2022-03-03 15:11:55,659 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 15:11:55,707 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:11:55,707 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 15:11:55,758 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:11:55,759 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 15:11:55,814 - base_page.py - INFO - send_keys- 正在输入13612345679
+2022-03-03 15:11:55,815 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 15:11:55,876 - base_page.py - INFO - send_keys- 正在输入123457@qq.com
+2022-03-03 15:12:02,250 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 15:12:02,250 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 15:12:02,305 - base_page.py - INFO - send_keys- 正在输入test003
+2022-03-03 15:12:02,305 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 15:12:02,353 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:12:02,353 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 15:12:02,396 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:12:02,397 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 15:12:02,450 - base_page.py - INFO - send_keys- 正在输入13612345680
+2022-03-03 15:12:02,451 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 15:12:02,508 - base_page.py - INFO - send_keys- 正在输入123458@qq.com
+2022-03-03 15:17:18,860 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 15:17:18,860 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 15:17:18,911 - base_page.py - INFO - send_keys- 正在输入test001
+2022-03-03 15:17:18,911 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 15:17:18,962 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:17:18,962 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 15:17:19,012 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:17:19,013 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 15:17:19,069 - base_page.py - INFO - send_keys- 正在输入13612345678
+2022-03-03 15:17:19,069 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 15:17:19,126 - base_page.py - INFO - send_keys- 正在输入123456@qq.com
+2022-03-03 15:17:25,607 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 15:17:25,607 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 15:17:25,668 - base_page.py - INFO - send_keys- 正在输入test002
+2022-03-03 15:17:25,668 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 15:17:25,722 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:17:25,722 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 15:17:25,780 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:17:25,780 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 15:17:25,840 - base_page.py - INFO - send_keys- 正在输入13612345679
+2022-03-03 15:17:25,841 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 15:17:25,901 - base_page.py - INFO - send_keys- 正在输入123457@qq.com
+2022-03-03 15:17:32,244 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 15:17:32,244 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 15:17:32,299 - base_page.py - INFO - send_keys- 正在输入test003
+2022-03-03 15:17:32,300 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 15:17:32,349 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:17:32,349 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 15:17:32,398 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:17:32,399 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 15:17:32,456 - base_page.py - INFO - send_keys- 正在输入13612345680
+2022-03-03 15:17:32,456 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 15:17:32,517 - base_page.py - INFO - send_keys- 正在输入123458@qq.com
+2022-03-03 15:18:56,938 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 15:18:56,938 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 15:18:57,026 - base_page.py - INFO - send_keys- 正在输入test001
+2022-03-03 15:18:57,026 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 15:18:57,084 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:18:57,085 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 15:18:57,129 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:18:57,129 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 15:18:57,188 - base_page.py - INFO - send_keys- 正在输入13612345678
+2022-03-03 15:18:57,188 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 15:18:57,257 - base_page.py - INFO - send_keys- 正在输入123456@qq.com
+2022-03-03 15:19:03,604 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 15:19:03,605 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 15:19:03,660 - base_page.py - INFO - send_keys- 正在输入test002
+2022-03-03 15:19:03,660 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 15:19:03,709 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:19:03,709 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 15:19:03,758 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:19:03,758 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 15:19:03,814 - base_page.py - INFO - send_keys- 正在输入13612345679
+2022-03-03 15:19:03,814 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 15:19:03,872 - base_page.py - INFO - send_keys- 正在输入123457@qq.com
+2022-03-03 15:19:10,233 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 15:19:10,233 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 15:19:10,291 - base_page.py - INFO - send_keys- 正在输入test003
+2022-03-03 15:19:10,291 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 15:19:10,337 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:19:10,337 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 15:19:10,384 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:19:10,384 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 15:19:10,438 - base_page.py - INFO - send_keys- 正在输入13612345680
+2022-03-03 15:19:10,438 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 15:19:10,496 - base_page.py - INFO - send_keys- 正在输入123458@qq.com
+2022-03-03 15:23:54,121 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 15:23:54,122 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 15:23:54,184 - base_page.py - INFO - send_keys- 正在输入test001
+2022-03-03 15:23:54,184 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 15:23:54,232 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:23:54,232 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 15:23:54,280 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:23:54,280 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 15:23:54,340 - base_page.py - INFO - send_keys- 正在输入13612345678
+2022-03-03 15:23:54,340 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 15:23:54,400 - base_page.py - INFO - send_keys- 正在输入123456@qq.com
+2022-03-03 15:24:00,756 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 15:24:00,756 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 15:24:00,814 - base_page.py - INFO - send_keys- 正在输入test002
+2022-03-03 15:24:00,814 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 15:24:00,872 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:24:00,873 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 15:24:00,923 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:24:00,923 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 15:24:00,978 - base_page.py - INFO - send_keys- 正在输入13612345679
+2022-03-03 15:24:00,978 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 15:24:01,035 - base_page.py - INFO - send_keys- 正在输入123457@qq.com
+2022-03-03 15:24:07,468 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 15:24:07,469 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 15:24:07,530 - base_page.py - INFO - send_keys- 正在输入test003
+2022-03-03 15:24:07,530 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 15:24:07,577 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:24:07,577 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 15:24:07,626 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:24:07,626 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 15:24:07,685 - base_page.py - INFO - send_keys- 正在输入13612345680
+2022-03-03 15:24:07,685 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 15:24:07,745 - base_page.py - INFO - send_keys- 正在输入123458@qq.com
+2022-03-03 15:28:27,090 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 15:28:27,090 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 15:28:27,144 - base_page.py - INFO - send_keys- 正在输入test001
+2022-03-03 15:28:27,144 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 15:28:27,194 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:28:27,194 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 15:28:27,236 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:28:27,236 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 15:28:27,289 - base_page.py - INFO - send_keys- 正在输入13612345678
+2022-03-03 15:28:27,289 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 15:28:27,350 - base_page.py - INFO - send_keys- 正在输入123456@qq.com
+2022-03-03 15:28:33,595 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 15:28:33,595 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 15:28:33,654 - base_page.py - INFO - send_keys- 正在输入test002
+2022-03-03 15:28:33,654 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 15:28:33,708 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:28:33,708 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 15:28:33,755 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:28:33,755 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 15:28:33,815 - base_page.py - INFO - send_keys- 正在输入13612345679
+2022-03-03 15:28:33,815 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 15:28:33,877 - base_page.py - INFO - send_keys- 正在输入123457@qq.com
+2022-03-03 15:28:40,197 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 15:28:40,197 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 15:28:40,250 - base_page.py - INFO - send_keys- 正在输入test003
+2022-03-03 15:28:40,250 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 15:28:40,301 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:28:40,301 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 15:28:40,351 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 15:28:40,351 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 15:28:40,411 - base_page.py - INFO - send_keys- 正在输入13612345680
+2022-03-03 15:28:40,411 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 15:28:40,475 - base_page.py - INFO - send_keys- 正在输入123458@qq.com
+2022-03-03 16:05:15,194 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 16:05:15,195 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 16:05:15,266 - base_page.py - INFO - send_keys- 正在输入test001
+2022-03-03 16:05:15,266 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 16:05:15,329 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 16:05:15,329 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 16:05:15,375 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 16:05:15,375 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 16:05:15,431 - base_page.py - INFO - send_keys- 正在输入13612345678
+2022-03-03 16:05:15,431 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 16:05:15,486 - base_page.py - INFO - send_keys- 正在输入123456@qq.com
+2022-03-03 16:05:21,781 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 16:05:21,781 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 16:05:21,836 - base_page.py - INFO - send_keys- 正在输入test002
+2022-03-03 16:05:21,836 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 16:05:21,884 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 16:05:21,884 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 16:05:21,935 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 16:05:21,935 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 16:05:21,989 - base_page.py - INFO - send_keys- 正在输入13612345679
+2022-03-03 16:05:21,989 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 16:05:22,046 - base_page.py - INFO - send_keys- 正在输入123457@qq.com
+2022-03-03 16:05:28,333 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 16:05:28,333 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 16:05:28,387 - base_page.py - INFO - send_keys- 正在输入test003
+2022-03-03 16:05:28,388 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 16:05:28,436 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 16:05:28,436 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 16:05:28,484 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 16:05:28,484 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 16:05:28,537 - base_page.py - INFO - send_keys- 正在输入13612345680
+2022-03-03 16:05:28,537 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 16:05:28,593 - base_page.py - INFO - send_keys- 正在输入123458@qq.com
+2022-03-03 16:06:59,508 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 16:06:59,509 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 16:06:59,561 - base_page.py - INFO - send_keys- 正在输入test001
+2022-03-03 16:06:59,561 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 16:06:59,608 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 16:06:59,608 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 16:06:59,652 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 16:06:59,652 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 16:06:59,706 - base_page.py - INFO - send_keys- 正在输入13612345678
+2022-03-03 16:06:59,707 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 16:06:59,763 - base_page.py - INFO - send_keys- 正在输入123456@qq.com
+2022-03-03 16:07:06,152 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 16:07:06,152 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 16:07:06,214 - base_page.py - INFO - send_keys- 正在输入test002
+2022-03-03 16:07:06,214 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 16:07:06,266 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 16:07:06,266 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 16:07:06,317 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 16:07:06,317 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 16:07:06,374 - base_page.py - INFO - send_keys- 正在输入13612345679
+2022-03-03 16:07:06,374 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 16:07:06,434 - base_page.py - INFO - send_keys- 正在输入123457@qq.com
+2022-03-03 16:07:13,105 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 16:07:13,106 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 16:07:13,159 - base_page.py - INFO - send_keys- 正在输入test003
+2022-03-03 16:07:13,159 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 16:07:13,214 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 16:07:13,215 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 16:07:13,260 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 16:07:13,260 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 16:07:13,312 - base_page.py - INFO - send_keys- 正在输入13612345680
+2022-03-03 16:07:13,313 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 16:07:13,367 - base_page.py - INFO - send_keys- 正在输入123458@qq.com
+2022-03-03 16:10:37,024 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 16:10:37,025 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 16:10:37,076 - base_page.py - INFO - send_keys- 正在输入test001
+2022-03-03 16:10:37,077 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 16:10:37,127 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 16:10:37,127 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 16:10:37,169 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 16:10:37,169 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 16:10:37,222 - base_page.py - INFO - send_keys- 正在输入13612345678
+2022-03-03 16:10:37,222 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 16:10:37,282 - base_page.py - INFO - send_keys- 正在输入123456@qq.com
+2022-03-03 16:10:43,587 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 16:10:43,588 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 16:10:43,645 - base_page.py - INFO - send_keys- 正在输入test002
+2022-03-03 16:10:43,645 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 16:10:43,691 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 16:10:43,691 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 16:10:43,741 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 16:10:43,741 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 16:10:43,795 - base_page.py - INFO - send_keys- 正在输入13612345679
+2022-03-03 16:10:43,795 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 16:10:43,852 - base_page.py - INFO - send_keys- 正在输入123457@qq.com
+2022-03-03 16:10:50,109 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 16:10:50,110 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 16:10:50,164 - base_page.py - INFO - send_keys- 正在输入test003
+2022-03-03 16:10:50,164 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 16:10:50,208 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 16:10:50,208 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 16:10:50,257 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 16:10:50,257 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 16:10:50,314 - base_page.py - INFO - send_keys- 正在输入13612345680
+2022-03-03 16:10:50,314 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 16:10:50,372 - base_page.py - INFO - send_keys- 正在输入123458@qq.com
+2022-03-03 16:14:37,084 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 16:14:37,084 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 16:14:37,152 - base_page.py - INFO - send_keys- 正在输入test001
+2022-03-03 16:14:37,152 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 16:14:37,201 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 16:14:37,201 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 16:14:37,250 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 16:14:37,251 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 16:14:37,308 - base_page.py - INFO - send_keys- 正在输入13612345678
+2022-03-03 16:14:37,308 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 16:14:37,364 - base_page.py - INFO - send_keys- 正在输入123456@qq.com
+2022-03-03 16:14:43,699 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 16:14:43,700 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 16:14:43,756 - base_page.py - INFO - send_keys- 正在输入test002
+2022-03-03 16:14:43,756 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 16:14:43,806 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 16:14:43,807 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 16:14:43,855 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 16:14:43,855 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 16:14:43,910 - base_page.py - INFO - send_keys- 正在输入13612345679
+2022-03-03 16:14:43,910 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 16:14:43,974 - base_page.py - INFO - send_keys- 正在输入123457@qq.com
+2022-03-03 16:14:50,327 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 16:14:50,327 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 16:14:50,385 - base_page.py - INFO - send_keys- 正在输入test003
+2022-03-03 16:14:50,385 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 16:14:50,435 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 16:14:50,435 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 16:14:50,486 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 16:14:50,487 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 16:14:50,544 - base_page.py - INFO - send_keys- 正在输入13612345680
+2022-03-03 16:14:50,544 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 16:14:50,602 - base_page.py - INFO - send_keys- 正在输入123458@qq.com
+2022-03-03 16:19:54,672 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 16:19:54,672 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 16:19:54,726 - base_page.py - INFO - send_keys- 正在输入test001
+2022-03-03 16:19:54,726 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 16:19:54,778 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 16:19:54,779 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 16:19:54,831 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 16:19:54,831 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 16:19:54,890 - base_page.py - INFO - send_keys- 正在输入13612345678
+2022-03-03 16:19:54,891 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 16:19:54,946 - base_page.py - INFO - send_keys- 正在输入123456@qq.com
+2022-03-03 16:20:01,312 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 16:20:01,312 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 16:20:01,369 - base_page.py - INFO - send_keys- 正在输入test002
+2022-03-03 16:20:01,369 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 16:20:01,454 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 16:20:01,454 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 16:20:01,502 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 16:20:01,502 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 16:20:01,563 - base_page.py - INFO - send_keys- 正在输入13612345679
+2022-03-03 16:20:01,563 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 16:20:01,629 - base_page.py - INFO - send_keys- 正在输入123457@qq.com
+2022-03-03 16:20:07,950 - base_page.py - INFO - get- 正在访问http://127.0.0.1/index.php?m=user&c=public&a=reg网址
+2022-03-03 16:20:07,950 - base_page.py - INFO - locator- 正在定位('name', 'username')
+2022-03-03 16:20:08,010 - base_page.py - INFO - send_keys- 正在输入test003
+2022-03-03 16:20:08,011 - base_page.py - INFO - locator- 正在定位('name', 'password')
+2022-03-03 16:20:08,060 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 16:20:08,060 - base_page.py - INFO - locator- 正在定位('name', 'userpassword2')
+2022-03-03 16:20:08,108 - base_page.py - INFO - send_keys- 正在输入123456
+2022-03-03 16:20:08,108 - base_page.py - INFO - locator- 正在定位('name', 'mobile_phone')
+2022-03-03 16:20:08,162 - base_page.py - INFO - send_keys- 正在输入13612345680
+2022-03-03 16:20:08,162 - base_page.py - INFO - locator- 正在定位('name', 'email')
+2022-03-03 16:20:08,263 - base_page.py - INFO - send_keys- 正在输入123458@qq.com
